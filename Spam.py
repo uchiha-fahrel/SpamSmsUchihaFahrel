@@ -717,6 +717,5 @@ if __name__ == '__main__':
 	print(C+'Subscribe YT'+W+' Gua Dlu kalau gk gpp'+C+' :V')
 	sleep(2)
 	os.system('clear')
-	os.system('xdg-open https://www.youtube.com/channel/UCUPB4qeQS_JJdqsEzZrKcDA')
 	sleep(7)
 	Spam()
